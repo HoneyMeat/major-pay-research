@@ -13,6 +13,7 @@
 <ul>
 <li>Python 3.6 or higher</li>
 <li>pip (Python package installer)</li>
+<li>Chrome Webdriver</li>
 </ul>
 
 <h2>Installation</h2>
