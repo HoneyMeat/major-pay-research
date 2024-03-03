@@ -1,6 +1,6 @@
 <h1 align="center">Salary Data Scraping Bot</h1>
 
-<p>This bot is designed to automatically retrieve the latest salary data for approximately 800 undergraduate majors from <a href="http://www.payscale.com">www.payscale.com</a>. It then performs various data science tasks to analyze the gathered information, providing valuable insights into salary statistics across different fields of study.</p>
+<p>This bot is designed to automatically retrieve the latest salary data for approximately 800 undergraduate majors from <a href="http://www.payscale.com">www.payscale.com</a>.</p>
 
 <h2>Getting Started</h2>
 
